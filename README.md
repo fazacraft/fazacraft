@@ -5,7 +5,7 @@
 <td>
 
 💻 **Backend Developer | Python | Django | DRF**  
-🌍 Based in Uzbekistan 🇺🇿  
+🌍 Uzbekistan 🇺🇿  
 🌱 Currently learning: Uz Payment API integrations, PostgreSQL, Docker  
 🚀 Building: Mini Instagram, POS system, Telegram bot  
 💬 Ask me about: Django REST Framework, APIs, Python  
@@ -30,8 +30,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
 ---
-
-## 📈 GitHub Stats
-
-![Faza's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazacraft&show_icons=true&theme=radical)
 
