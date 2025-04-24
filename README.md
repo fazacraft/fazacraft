@@ -1,11 +1,22 @@
 # 👋 Hi, I'm Fazliddin (Faza)
 
+<table>
+<tr>
+<td>
+
 💻 **Backend Developer | Python | Django | DRF**  
-🌍 Based in Uzbekistan | 🇺🇿  
+🌍 Based in Uzbekistan 🇺🇿  
 🌱 Currently learning: Kafka, PostgreSQL, Docker  
 🚀 Building: OLX-style project, POS system, Telegram bot  
 💬 Ask me about: Django REST Framework, APIs, Python  
-📫 Reach me: [Telegram](https://t.me/belugadotenv) | [Email](mailto:phazliddinphozilov@gmail.com)
+📫 Reach me: [Telegram](https://t.me/your_username) | [Email](mailto:your.email@example.com)
+
+</td>
+<td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -28,20 +39,14 @@
 
 ## 🧠 Current Goals
 
-- 🛠 Polish OLX-style app with JWT, mixins, and error handling
-- 🧾 Build a mini-payment system with Uzum integration
-- 📦 Dockerize Django projects
+- 🛠 Polish OLX-style app with JWT, mixins, and error handling  
+- 🧾 Build a mini-payment system with Uzum integration  
+- 📦 Dockerize Django projects  
 - ✍️ Share mini-projects and tips
 
 ---
 
 ## 🎯 Fun Fact
 
-I believe coding is **ibodat** when it's done with purpose and intention!  
+I believe coding is **ibodat** when it's done with purpose and intention.  
 Always learning. Always growing. 🙌
-
----
-
-<!-- GIF example -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
