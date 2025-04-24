@@ -13,7 +13,7 @@
 
 </td>
 <td>
-<img src="github.gif" width="270"/>
+<img src="tailung.gif" width="270"/>
 </td>
 </tr>
 </table>
