@@ -13,7 +13,7 @@
 
 </td>
 <td>
-<img src="tailung.gif" width="400"/>
+<img src="tailung.gif" width="400" height='400'/>
 </td>
 </tr>
 </table>
