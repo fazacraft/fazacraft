@@ -6,14 +6,14 @@
 
 💻 **Backend Developer | Python | Django | DRF**  
 🌍 Based in Uzbekistan 🇺🇿  
-🌱 Currently learning: Kafka, PostgreSQL, Docker  
-🚀 Building: OLX-style project, POS system, Telegram bot  
+🌱 Currently learning: Uz Payment API integrations, PostgreSQL, Docker  
+🚀 Building: Mini Instagram, POS system, Telegram bot  
 💬 Ask me about: Django REST Framework, APIs, Python  
-📫 Reach me: [Telegram](https://t.me/your_username) | [Email](mailto:your.email@example.com)
+📫 Reach me: [Telegram](https://t.me/@belugadotenv) | [Email](mailto:phazliddinphozilov@gmail.com)
 
 </td>
 <td>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
+<img src="github.gif" width="270"/>
 </td>
 </tr>
 </table>
@@ -35,18 +35,3 @@
 
 ![Faza's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazacraft&show_icons=true&theme=radical)
 
----
-
-## 🧠 Current Goals
-
-- 🛠 Polish OLX-style app with JWT, mixins, and error handling  
-- 🧾 Build a mini-payment system with Uzum integration  
-- 📦 Dockerize Django projects  
-- ✍️ Share mini-projects and tips
-
----
-
-## 🎯 Fun Fact
-
-I believe coding is **ibodat** when it's done with purpose and intention.  
-Always learning. Always growing. 🙌
