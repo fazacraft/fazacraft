@@ -9,7 +9,7 @@
 🌱 Currently learning: Uz Payment API integrations, PostgreSQL, Docker  
 🚀 Building: Mini Instagram, POS system, Telegram bot  
 💬 Ask me about: Django REST Framework, APIs, Python  
-📫 Reach me: [Telegram](https://t.me/@belugadotenv) | [Email](mailto:phazliddinphozilov@gmail.com)
+📫 Reach me: [Telegram](https://t.me/belugadotenv) | [Email](mailto:phazliddinphozilov@gmail.com)
 
 </td>
 <td>
