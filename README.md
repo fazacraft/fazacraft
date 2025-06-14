@@ -6,9 +6,9 @@
 
 💻 **Backend Developer | Python | Django | DRF**  
 🌍 Uzbekistan 🇺🇿  
-🌱 Currently learning: Uz Payment API integrations, PostgreSQL, Docker  
+🌱 Currently learning: Docker, FastAPI  
 🚀 Building: Mini Instagram, POS system, Telegram bot  
-💬 Ask me about: Django REST Framework, APIs, Python  
+💬 Ask me about: Django REST Framework, APIs, Python, Docker, GCP  
 📫 Reach me: [Telegram](https://t.me/belugadotenv) | [Email](mailto:phazliddinphozilov@gmail.com)
 
 </td>
